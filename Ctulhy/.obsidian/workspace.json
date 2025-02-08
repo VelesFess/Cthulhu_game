@@ -1,0 +1,304 @@
+{
+  "main": {
+    "id": "6e403d2b5b0c6ce1",
+    "type": "split",
+    "children": [
+      {
+        "id": "02e9a3810acf1596",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3da5207da44495b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "\"Вляпались\".md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "\"Вляпались\""
+            }
+          },
+          {
+            "id": "2eeccfc9f8087649",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Хезер  Свонсон.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Хезер  Свонсон"
+            }
+          },
+          {
+            "id": "dced1a6fefaeb547",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Профессор Теодор Йонч.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Профессор Теодор Йонч"
+            }
+          },
+          {
+            "id": "93dd656783d48c67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Особняк.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Особняк"
+            }
+          },
+          {
+            "id": "bc72b94093940987",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Инцидент в госпитале.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Инцидент в госпитале"
+            }
+          },
+          {
+            "id": "b5312fcfce6c3b6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Инцидент в госпитале.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Инцидент в госпитале"
+            }
+          },
+          {
+            "id": "12ea6687f47feac8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "John.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "John"
+            }
+          },
+          {
+            "id": "66f48612feba1ccd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Джон Неизвестный агент общества.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Джон Неизвестный агент общества"
+            }
+          }
+        ],
+        "currentTab": 7
+      },
+      {
+        "id": "3f2290602e54c3c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea976711a48b5870",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c659d69ea3262b15",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf1a2bfe8fd4e0b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bb32e25fe43ecc4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "bd37267babc10d7b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "227a595346dedc3d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c2e6950eaa14e3ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b296c97bd7fce98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f00c2b1f7d554d5a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "4463fda6e18f3971",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "0c292ae922798367",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "88b41308807dd68f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "ea976711a48b5870",
+  "lastOpenFiles": [
+    "Блондин-скандинав.md",
+    "ДевИд Верхен.md",
+    "Госпиталь святой Марии.md",
+    "Фридерик Мур.md",
+    "Эдвин Вилсон.md",
+    "Профессор Теодор Йонч.md",
+    "John.jpg",
+    "\"LondonTimes\".md",
+    "Джон Неизвестный агент общества.md",
+    " 1",
+    "Джон.jpg",
+    "Инцидент в госпитале.md",
+    "\"Вляпались\".md",
+    "Особняк.md",
+    "Миранда.md",
+    "Кристофер Маркс.md",
+    "\"Общество\".md",
+    "Тони.md",
+    "Хезер  Свонсон.md",
+    "Ильзе Штайнмаер.md"
+  ]
+}
