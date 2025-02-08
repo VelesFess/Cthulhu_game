@@ -6,6 +6,7 @@
       {
         "id": "02e9a3810acf1596",
         "type": "tabs",
+        "dimension": 51.617647058823536,
         "children": [
           {
             "id": "d3da5207da44495b",
@@ -41,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARS/\"LondonTimes\".md",
+                "file": "ДевИд Верхен.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "\"LondonTimes\""
+              "title": "ДевИд Верхен"
             }
           }
         ],
@@ -55,6 +56,7 @@
       {
         "id": "3f2290602e54c3c5",
         "type": "tabs",
+        "dimension": 48.38235294117647,
         "children": [
           {
             "id": "ea976711a48b5870",
@@ -76,12 +78,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARS/Эдвин Вилсон.md",
+                "file": "Мистер Дункан.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Эдвин Вилсон"
+              "title": "Мистер Дункан"
             }
           }
         ],
@@ -233,29 +235,30 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "2bb32e25fe43ecc4",
+  "active": "3ddce3c976e3da1a",
   "lastOpenFiles": [
-    "ARS/Фридерик Мур.md",
-    "ARS/Эдвин Вилсон.md",
-    "ARS/\"LondonTimes\".md",
-    "ARS/\"Вляпались\".md",
+    "Мистер Дункан.md",
+    "\"LondonTimes\".md",
+    "\"Вляпались\".md",
+    "Эдвин Вилсон.md",
+    "ДевИд Верхен.md",
+    "Инцидент в госпитале.md",
+    "Хезер  Свонсон.md",
+    "Миранда.md",
+    "Фридерик Мур.md",
     "ARS/Без названия.md",
-    "ARS/Хезер  Свонсон.md",
     "ARS",
-    "ARS/Блондин-скандинав.md",
-    "ARS/ДевИд Верхен.md",
-    "ARS/Госпиталь святой Марии.md",
-    "ARS/Профессор Теодор Йонч.md",
-    "ARS/John.jpg",
-    "ARS/Джон Неизвестный агент общества.md",
+    "Блондин-скандинав.md",
+    "Госпиталь святой Марии.md",
+    "Профессор Теодор Йонч.md",
+    "John.jpg",
+    "Джон Неизвестный агент общества.md",
     " 1",
     "Джон.jpg",
-    "ARS/Инцидент в госпитале.md",
-    "ARS/Особняк.md",
-    "ARS/Миранда.md",
-    "ARS/Кристофер Маркс.md",
-    "ARS/\"Общество\".md",
-    "ARS/Тони.md",
-    "ARS/Ильзе Штайнмаер.md"
+    "Особняк.md",
+    "Кристофер Маркс.md",
+    "\"Общество\".md",
+    "Тони.md",
+    "Ильзе Штайнмаер.md"
   ]
 }
