@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "\"Вляпались\".md",
+                "file": "ARS/\"Вляпались\".md",
                 "mode": "source",
                 "source": false
               },
@@ -27,98 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Хезер  Свонсон.md",
+                "file": "ARS/\"LondonTimes\".md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Хезер  Свонсон"
+              "title": "\"LondonTimes\""
             }
           },
           {
-            "id": "dced1a6fefaeb547",
+            "id": "3ddce3c976e3da1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Профессор Теодор Йонч.md",
+                "file": "ARS/\"LondonTimes\".md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Профессор Теодор Йонч"
-            }
-          },
-          {
-            "id": "93dd656783d48c67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Особняк.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Особняк"
-            }
-          },
-          {
-            "id": "bc72b94093940987",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Инцидент в госпитале.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Инцидент в госпитале"
-            }
-          },
-          {
-            "id": "b5312fcfce6c3b6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Инцидент в госпитале.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Инцидент в госпитале"
-            }
-          },
-          {
-            "id": "12ea6687f47feac8",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "John.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "John"
-            }
-          },
-          {
-            "id": "66f48612feba1ccd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Джон Неизвестный агент общества.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Джон Неизвестный агент общества"
+              "title": "\"LondonTimes\""
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       },
       {
         "id": "3f2290602e54c3c5",
@@ -128,13 +60,32 @@
             "id": "ea976711a48b5870",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "ARS/\"LondonTimes\".md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "\"LondonTimes\""
+            }
+          },
+          {
+            "id": "0a1268d919e6ef80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ARS/Эдвин Вилсон.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Эдвин Вилсон"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,6 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ARS/Эдвин Вилсон.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +168,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Эдвин Вилсон"
             }
           },
           {
@@ -225,11 +177,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ARS/Эдвин Вилсон.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из Эдвин Вилсон"
             }
           },
           {
@@ -253,12 +206,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "ARS/Эдвин Вилсон.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Эдвин Вилсон"
             }
           }
         ]
@@ -275,30 +229,33 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "system3-relay:Relay": false
     }
   },
-  "active": "ea976711a48b5870",
+  "active": "2bb32e25fe43ecc4",
   "lastOpenFiles": [
-    "Блондин-скандинав.md",
-    "ДевИд Верхен.md",
-    "Госпиталь святой Марии.md",
-    "Фридерик Мур.md",
-    "Эдвин Вилсон.md",
-    "Профессор Теодор Йонч.md",
-    "John.jpg",
-    "\"LondonTimes\".md",
-    "Джон Неизвестный агент общества.md",
+    "ARS/Фридерик Мур.md",
+    "ARS/Эдвин Вилсон.md",
+    "ARS/\"LondonTimes\".md",
+    "ARS/\"Вляпались\".md",
+    "ARS/Без названия.md",
+    "ARS/Хезер  Свонсон.md",
+    "ARS",
+    "ARS/Блондин-скандинав.md",
+    "ARS/ДевИд Верхен.md",
+    "ARS/Госпиталь святой Марии.md",
+    "ARS/Профессор Теодор Йонч.md",
+    "ARS/John.jpg",
+    "ARS/Джон Неизвестный агент общества.md",
     " 1",
     "Джон.jpg",
-    "Инцидент в госпитале.md",
-    "\"Вляпались\".md",
-    "Особняк.md",
-    "Миранда.md",
-    "Кристофер Маркс.md",
-    "\"Общество\".md",
-    "Тони.md",
-    "Хезер  Свонсон.md",
-    "Ильзе Штайнмаер.md"
+    "ARS/Инцидент в госпитале.md",
+    "ARS/Особняк.md",
+    "ARS/Миранда.md",
+    "ARS/Кристофер Маркс.md",
+    "ARS/\"Общество\".md",
+    "ARS/Тони.md",
+    "ARS/Ильзе Штайнмаер.md"
   ]
 }
